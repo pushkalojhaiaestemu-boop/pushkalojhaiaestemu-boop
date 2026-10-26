@@ -1,5 +1,7 @@
 ## Hi there 👋
-Hi, I'm Pushkal: MSc Data Science at KCL.
+
+I'm Pushkal: MSc Data Science at KCL.
+
 ✍️ **Writing:** [Medium](https://medium.com/@pushkal.ojha.iaeste.mu)
 
 <!--
