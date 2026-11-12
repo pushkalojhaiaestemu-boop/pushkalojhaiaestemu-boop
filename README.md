@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hello there 👋
 
-I'm Pushkal: MSc Data Science at KCL.
+I'm Pushkal: Currently MSc Data Science at KCL.
 
+I study Math and Data in my busy time.
+In my free time right now, I am hyperfixating on creating a lot of model architectures from scratch particularly ViTs.
 ✍️ **Writing:** [Medium](https://medium.com/@pushkal.ojha.iaeste.mu)
 
 <!--
